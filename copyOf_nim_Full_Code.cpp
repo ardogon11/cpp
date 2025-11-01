@@ -1,5 +1,5 @@
 #include<iostream>
-tes spring
+
 using namespace std;
 
 void siGanteng(){
@@ -619,4 +619,5 @@ int main(int argc, char const *argv[])
     cin.get();
     return 0;
 }
+
 
